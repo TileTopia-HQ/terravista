@@ -1,11 +1,11 @@
 # TerraVista
 
-**Mobile map SDK for the TileTopia ecosystem** — offline-first tile caching, GPU-accelerated vector rendering, gesture-driven navigation, and turn-by-turn routing for iOS and Android.
+**Mobile map SDK for the GeoLang ecosystem** — offline-first tile caching, GPU-accelerated vector rendering, gesture-driven navigation, and turn-by-turn routing for iOS and Android.
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/Rust-2024_edition-orange.svg)](https://www.rust-lang.org/)
 
-> Part of the [TileTopia](https://github.com/TileTopia-HQ) geospatial platform.
+> Part of the [GeoLang](https://github.com/GeoLang) geospatial platform.
 
 ---
 
@@ -327,25 +327,25 @@ class MapView(context: Context) : View(context) {
 
 ---
 
-## Related TileTopia Projects
+## Related GeoLang Projects
 
 | Project | Description |
 |---------|-------------|
-| [TileTopia](https://github.com/TileTopia-HQ/tiletopia) | Vector tile server |
-| [ViewTopia](https://github.com/TileTopia-HQ/viewtopia) | Web map viewer |
-| [Itinera](https://github.com/TileTopia-HQ/itinera) | Routing engine |
-| [GeoKode](https://github.com/TileTopia-HQ/geokode) | Geocoding service |
-| [Nubis](https://github.com/TileTopia-HQ/nubis) | Cloud infrastructure |
-| [Terrano](https://github.com/TileTopia-HQ/terrano) | Terrain/elevation service |
-| [Ptolemy](https://github.com/TileTopia-HQ/ptolemy) | Cartographic styling |
-| [GeoDukt](https://github.com/TileTopia-HQ/geodukt) | Data pipeline/ETL |
-| [GeoGit](https://github.com/TileTopia-HQ/geogit) | Versioned geodata |
-| [Jung](https://github.com/TileTopia-HQ/jung) | GPU rendering engine |
-| [Fluvius](https://github.com/TileTopia-HQ/fluvius) | Real-time streaming |
-| [Panoptes](https://github.com/TileTopia-HQ/panoptes) | Monitoring/observability |
-| [Projicio](https://github.com/TileTopia-HQ/projicio) | CRS/projection library |
-| [Topoi](https://github.com/TileTopia-HQ/topoi) | Topology engine |
-| [Fenestra](https://github.com/TileTopia-HQ/fenestra) | WMS/WMTS server |
+| [GeoLang](https://github.com/GeoLang/tiletopia) | Vector tile server |
+| [ViewTopia](https://github.com/GeoLang/viewtopia) | Web map viewer |
+| [Itinera](https://github.com/GeoLang/itinera) | Routing engine |
+| [GeoKode](https://github.com/GeoLang/geokode) | Geocoding service |
+| [Nubis](https://github.com/GeoLang/nubis) | Cloud infrastructure |
+| [Terrano](https://github.com/GeoLang/terrano) | Terrain/elevation service |
+| [Ptolemy](https://github.com/GeoLang/ptolemy) | Cartographic styling |
+| [GeoDukt](https://github.com/GeoLang/geodukt) | Data pipeline/ETL |
+| [GeoGit](https://github.com/GeoLang/geogit) | Versioned geodata |
+| [Jung](https://github.com/GeoLang/jung) | GPU rendering engine |
+| [Fluvius](https://github.com/GeoLang/fluvius) | Real-time streaming |
+| [Panoptes](https://github.com/GeoLang/panoptes) | Monitoring/observability |
+| [Projicio](https://github.com/GeoLang/projicio) | CRS/projection library |
+| [Topoi](https://github.com/GeoLang/topoi) | Topology engine |
+| [Fenestra](https://github.com/GeoLang/fenestra) | WMS/WMTS server |
 
 ---
 
@@ -353,4 +353,4 @@ class MapView(context: Context) : View(context) {
 
 This project is licensed under the [GNU Affero General Public License v3.0](LICENSE) or later.
 
-Copyright © 2024 TileTopia
+Copyright © 2024 GeoLang

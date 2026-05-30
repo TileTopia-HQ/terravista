@@ -20,4 +20,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **C FFI bindings** — 15 exported functions via `terravista-ffi` crate (cdylib + staticlib), `tv_` prefixed flat C API for Swift/Kotlin consumption.
 - **Documentation** — Comprehensive README with architecture, API reference, platform integration examples. GitHub Pages landing site.
 
-[0.1.0]: https://github.com/TileTopia-HQ/terravista/releases/tag/v0.1.0
+[0.1.0]: https://github.com/GeoLang/terravista/releases/tag/v0.1.0

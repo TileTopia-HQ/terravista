@@ -120,6 +120,14 @@ TerraVista is a cross-platform mobile mapping engine written in Rust, designed t
 - Device pixel ratio awareness for Retina/HiDPI displays
 - Platform GPU backend integration point (Metal on iOS, Vulkan on Android)
 
+### 📦 Offline Tile Packages
+
+- MBTiles-format tile packages for fully disconnected use
+- `PackageDefinition` with bounding box, zoom range, tile source URL
+- Tile count estimation before download
+- Binary TVPK format with custom header for fast archive access
+- Region-based tile enumeration across zoom levels
+
 ---
 
 ## Building
